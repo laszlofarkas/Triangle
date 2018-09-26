@@ -1,0 +1,6 @@
+[submodule "TriangleREST"]
+	path = TriangleREST
+	url = https://github.com/laszlofarkas/TriangleREST
+[submodule "TriangleUI"]
+	path = TriangleUI
+	url = https://github.com/laszlofarkas/TriangleUI
